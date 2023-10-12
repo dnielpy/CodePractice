@@ -50,3 +50,17 @@ int Segundo(int[] x){
 System.Console.WriteLine(Segundo(x));
 */
 
+//Implemente un m´etodo que invierte el orden de los elementos del array a que recibe como entrada
+
+int[]y = {1,2,54,3,21,4};
+
+int[] InvertirArray(int[] x){
+    int[] invertido = new int[x.Length];
+    for (int i = 0; i < x.Length; i++)
+    {
+        invertido[i] = x[x.Length-1-i];
+    }
+    return invertido;
+}
+
+InvertirArray(y);
