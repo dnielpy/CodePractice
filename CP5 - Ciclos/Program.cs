@@ -16,3 +16,37 @@ int Mayor(int[] x){
 
 System.Console.WriteLine(Mayor(x));
 */
+
+
+//Implemente un m´etodo que devuelva el segundo menor elemento de un array.
+/*
+int[] x = {1,2,4,12,4,56,3,99,-3, 6};
+int Segundo(int[] x){
+    int Mayor(int[] x){
+        int contador = 0;
+        for (int i = 0; i < x.Length; i++)
+        {
+            if (x[contador] < x[i])
+            {
+                contador = i;
+            }
+        }
+        return x[contador];
+    }
+
+    int mayor = Mayor(x);
+
+    int[]y = new int[x.Length];
+    for (int i = 0; i < x.Length; i++)
+    {
+        if (x[i] != mayor)
+        {
+            y[i] = x[i];
+        }
+    }
+    return Mayor(y);
+}
+
+System.Console.WriteLine(Segundo(x));
+*/
+
