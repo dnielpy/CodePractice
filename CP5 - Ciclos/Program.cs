@@ -92,5 +92,21 @@ System.Console.WriteLine(Pertenece(x, 91));
 */
 
 
+//Implemente un m´etodo que devuelva el promedio de todos los elementos de un array
+/*
+int[] a = {1,5,3,2,4,5,2};
+
+double Promedio(int[] x){
+    double contador = 0;
+
+    for (int i = 0; i < x.Length; i++)
+    {
+        contador += x[i];
+    }
+    return contador / (double)x.Length;
+}
+ 
+System.Console.WriteLine(Promedio(a));
+*/
 
 
