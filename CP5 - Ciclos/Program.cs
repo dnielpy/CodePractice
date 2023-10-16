@@ -122,4 +122,49 @@ int MayoresQuePromedio(int[] x, int promedio){
 System.Console.WriteLine($"El promedio es: {Promedio(a)} y hay {MayoresQuePromedio(a, (int)Promedio(a))} mayores que el");
 */
 
+//Implemente un m´etodo que devuelva el elemento moda de un array. El elemento moda de un array es aquel que m´as se repite.
+
+int[] a = {1,4,3,2,4,2,2,4,2,1};
+
+int Moda(int[] x){
+    int moda = 0;
+    int max = 0;
+    List<int> sin_repetir_llaves = new List<int>();
+
+    Dictionary<int, int> elementos_sin_repetir = new Dictionary<int, int>();
+
+    for (int i = 0; i < x.Length; i++)
+    {
+        if (elementos_sin_repetir.ContainsKey(x[i]) != true)
+        {
+            elementos_sin_repetir.Add(a[i], 0);
+        }
+        elementos_sin_repetir[a[i]]++;
+    }
+
+    foreach (var llave in elementos_sin_repetir.Keys)
+    {
+        sin_repetir_llaves.Add(llave);
+    }
+
+    for (int i = 0; i < sin_repetir_llaves.Count; i++)
+    {
+        if (max < elementos_sin_repetir[sin_repetir_llaves[i]])
+        {
+            max = elementos_sin_repetir[sin_repetir_llaves[i]];
+        }
+    }
+    for (int i = 0; i < sin_repetir_llaves.Count; i++)
+    {
+        if (elementos_sin_repetir[sin_repetir_llaves[i]] == max)
+        {
+            moda = sin_repetir_llaves[i];
+        }
+    }
+
+    return moda;
+}
+
+
+System.Console.WriteLine(Moda(a));
 
