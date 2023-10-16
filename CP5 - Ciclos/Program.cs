@@ -51,9 +51,8 @@ System.Console.WriteLine(Segundo(x));
 */
 
 //Implemente un m´etodo que invierte el orden de los elementos del array a que recibe como entrada
-
+/*
 int[]y = {1,2,54,3,21,4};
-
 int[] InvertirArray(int[] x){
     int[] invertido = new int[x.Length];
     for (int i = 0; i < x.Length; i++)
@@ -62,5 +61,36 @@ int[] InvertirArray(int[] x){
     }
     return invertido;
 }
-
 InvertirArray(y);
+*/
+
+//Implemente un m´etodo que devuelva los elementos de un array de enteros pororden de cercan´ıa a otro entero dado que llamaremos pivote, entonces estos sedeber´an ordenar de menor a mayor.Ejemplo:Dado [5,3,7,10] y pivote=7 los elementos del array quedar´ıan en este orden:[7,5,10,3]
+
+
+//Implemente un m´etodo que determine si un n´umero n pertenece al array a
+/*
+int[] x = {1,2,3,4,5,6,7,8,9,10};
+bool Pertenece(int[] a, int elemento){
+    bool answer = false;
+
+    for (int i = 0; i < a.Length; i++)
+    {
+        if (a[i] == elemento)
+        {
+            answer = true;
+            break;
+        }
+        else
+        {
+            answer = false;
+        }
+    }
+    return answer;
+}
+
+System.Console.WriteLine(Pertenece(x, 91));
+*/
+
+
+
+
