@@ -105,8 +105,21 @@ double Promedio(int[] x){
     }
     return contador / (double)x.Length;
 }
- 
-System.Console.WriteLine(Promedio(a));
+
+int MayoresQuePromedio(int[] x, int promedio){
+    int mayores = 0;
+    for (int i = 0; i < x.Length; i++)
+    {
+        if (x[i] > promedio)
+        {
+            mayores++;
+        }
+    }
+    return mayores;
+}
+
+
+System.Console.WriteLine($"El promedio es: {Promedio(a)} y hay {MayoresQuePromedio(a, (int)Promedio(a))} mayores que el");
 */
 
 
