@@ -123,7 +123,7 @@ System.Console.WriteLine($"El promedio es: {Promedio(a)} y hay {MayoresQuePromed
 */
 
 //Implemente un m´etodo que devuelva el elemento moda de un array. El elemento moda de un array es aquel que m´as se repite.
-
+/*
 int[] a = {1,4,3,2,4,2,2,4,2,1};
 
 int Moda(int[] x){
@@ -164,7 +164,64 @@ int Moda(int[] x){
 
     return moda;
 }
-
-
 System.Console.WriteLine(Moda(a));
+*/
+
+
+/*Implemente un m´etodo que devuelva el elemento mediana de un array. El
+elemento mediana de un array es aquel elemento que tiene la misma cantidad
+de elementos mayores y elementos menores en el array. Asuma que el array
+numeros no contiene elementos repetidos
+*/
+int[] a = {1,4,3,5,7,9,2};
+
+int Mediana(int[] x){
+    int mediana = 0;
+    Dictionary<int, int> mayores = new Dictionary<int, int>();
+    Dictionary<int, int> menores = new Dictionary<int, int>();
+
+    //agregar las key a los dict
+    foreach (var valores in x)
+    {
+        mayores.Add(valores, 0);
+        menores.Add(valores, 0);
+    }
+
+    for (int i = 0; i < x.Length; i++)
+    {
+        for (int y = 0; y < x.Length; y++)
+        {
+            if (x[i] > x[y])
+            {
+                menores[x[i]]++;
+            }
+            if (x[i] < x[y])
+            {
+                mayores[x[i]]++;
+            }
+        }
+    }
+
+    int[] mayoresarray = new int[x.Length];
+    int[] menoresarray = new int[x.Length];
+
+    for (int i = 0; i < x.Length; i++)
+    {
+        mayoresarray[i] = mayores[x[i]];
+        menoresarray[i] = menores[x[i]];
+    }
+
+    for (int i = 0; i < x.Length; i++)
+    {
+        if (mayoresarray[i] == menoresarray[i])
+        {
+            mediana = x[i];
+            return mediana;
+        }   
+    }
+    return mediana;
+}
+
+System.Console.WriteLine(Mediana(a));
+
 
