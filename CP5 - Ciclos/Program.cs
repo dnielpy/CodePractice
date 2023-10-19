@@ -173,8 +173,8 @@ elemento mediana de un array es aquel elemento que tiene la misma cantidad
 de elementos mayores y elementos menores en el array. Asuma que el array
 numeros no contiene elementos repetidos
 */
+/*
 int[] a = {1,4,3,5,7,9,2};
-
 int Mediana(int[] x){
     int mediana = 0;
     Dictionary<int, int> mayores = new Dictionary<int, int>();
@@ -223,5 +223,44 @@ int Mediana(int[] x){
 }
 
 System.Console.WriteLine(Mediana(a));
+*/
+
+/*Implemente un m´etodo que dado dos n´umeros no negativos representados como
+string devuelva la suma de estos dos n´umeros tambi´en como string.Note que
+cada unos de estos n´umeros pueden tener m´as de mil d´ıgitos :-). */
+
+// Falta hacerle el arrastre 
+
+string primero = "11111";
+string segundo = "111111111111111111111111";
+
+
+string SumarCadenas(string a, string b){
+    string result = "";
+    for (int i = 0; i < (Math.Max(primero.Length, segundo.Length)); i++)
+    {
+        if (i > a.Length)
+        {
+            string bridgeB = b[i].ToString();
+            result += 0 + int.Parse(bridgeB);  
+        }
+        if (i > b.Length)
+        {
+            string bridgeA = a[i].ToString();
+            result += int.Parse(bridgeA) + 0;
+        }
+        if (i < a.Length && i < b.Length)
+        {
+            string bridgeA = a[i].ToString();
+            string bridgeB = b[i].ToString();
+            result += int.Parse(bridgeA) + int.Parse(bridgeB);
+        }
+    }
+    return result;
+}
+
+System.Console.WriteLine(SumarCadenas(primero, segundo));
+
+
 
 
