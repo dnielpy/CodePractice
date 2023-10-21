@@ -229,38 +229,6 @@ System.Console.WriteLine(Mediana(a));
 string devuelva la suma de estos dos n´umeros tambi´en como string.Note que
 cada unos de estos n´umeros pueden tener m´as de mil d´ıgitos :-). */
 /*
-string primero = "11111";
-string segundo = "42654623161111111111111111111";
-string SumarCadenas(string a, string b){
-    string result = "";
-    for (int i = 0; i < (Math.Max(primero.Length, segundo.Length)); i++)
-    {
-        if (i > a.Length)
-        {
-            string bridgeB = b[i].ToString();
-            result += 0 + int.Parse(bridgeB);
-        }
-        if (i > b.Length)
-        {
-            string bridgeA = a[i].ToString();
-            result += int.Parse(bridgeA) + 0;
-        }
-        if (i < a.Length && i < b.Length)
-        {
-            string bridgeA = a[i].ToString();
-            string bridgeB = b[i].ToString();
-            result += int.Parse(bridgeA) + int.Parse(bridgeB);
-        }
-    }
-    char[] charbridge = result.ToCharArray();
-    Array.Reverse(charbridge);
-    result = new string(charbridge);  
-    return result;
-}
-
-System.Console.WriteLine(SumarCadenas(primero, segundo));
-*/
-
 string Invertir(string cadena1, string cadena2){
     string respuesta = "";
 
@@ -319,7 +287,9 @@ int arrastre = 0;
     return respuesta;
 }
 
-System.Console.WriteLine(Invertir("132", "2930"));
+System.Console.WriteLine(Invertir("132", "2933330"));
+*/
+
 
 
 
