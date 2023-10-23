@@ -412,4 +412,104 @@ for (int i = 0; i < EliminarNegativos(a).Length; i++)
 */
 
 
+/*
+Conjuntos
+Sean A y B dos conjuntos representados a partir de arrays. Implementa los
+m´etodos que devuelvan los resultados correspondientes a las siguientes operaciones entre conjuntos:
+a)
+Intersecci´on (A ∩ B).
+/*
+int[] a = {2,4,6,8};
+int[] b = {1,2,4,5,7,8};
+
+int[] Interseccion(int[] x, int[] y){
+    List<int> interseccion = new List<int>();
+
+    for (int i = 0; i < Math.Min(x.Length, y.Length); i++)
+    {
+        for (int o = 0; o < Math.Max(x.Length, y.Length); o++)
+        {
+            if (x.Length < y.Length)
+            {
+                if (x[i] == y[o])
+                {
+                    interseccion.Add(x[i]);   
+                }
+            }
+            else
+            {
+                if (y[i] == x[o])
+                {
+                    interseccion.Add(y[i]);   
+                }
+            }
+        }
+    }
+
+    return interseccion.ToArray();
+}
+Interseccion(a, b);
+*/
+
+/*
+b)
+Uni´on (A ∪ B).
+/*
+int[] a = {2,4,6,8};
+int[] b = {1,2,4,5,7,8};
+
+int[] Union(int[] x, int[] y){
+    List<int> union = new List<int>();
+
+    union = x.ToList();
+    foreach (var item in y)
+    {
+        union.Add(item);
+    }
+    int[] z = union.ToArray();
+    return (int[])z.Distinct();
+}
+Union(a, b);
+*/
+
+/*
+c)
+Subconjunto(A ⊂ B)
+*/
+/*
+int[] a = {2,4,8};
+int[] b = {1,2,4,5,7,8};
+bool Subconjunto(int[] x, int[] y){
+    int contador = 0;
+    bool respuesta = false;
+
+    for (int i = 0; i < Math.Min(x.Length, y.Length); i++)
+    {
+        for (int o = 0; o < Math.Max(x.Length, y.Length); o++)
+        {
+            if (x.Length < y.Length)
+            {
+                if (x[i] == y[o])
+                {
+                    contador++;
+                }
+            }
+            else
+            {
+                if (x[o] == y[i])
+                {
+                    contador++;
+                }
+            }
+        }
+    }
+    
+    if (contador == Math.Min(x.Length, y.Length))
+    {
+        respuesta = true;
+    }
+    return respuesta;
+}
+System.Console.WriteLine(Subconjunto(a, b));
+*/
 
