@@ -229,7 +229,7 @@ System.Console.WriteLine(Mediana(a));
 string devuelva la suma de estos dos n´umeros tambi´en como string.Note que
 cada unos de estos n´umeros pueden tener m´as de mil d´ıgitos :-). */
 /*
-string Invertir(string cadena1, string cadena2){
+string SumarCadenas(string cadena1, string cadena2){
     string respuesta = "";
 
 //Emparejar las cadenas en tamaño agregando 0s al final de la menor
@@ -287,9 +287,99 @@ int arrastre = 0;
     return respuesta;
 }
 
-System.Console.WriteLine(Invertir("132", "2933330"));
+System.Console.WriteLine(SumarCadenas("132", "2933330"));
 */
 
+/*Restando cadenas
+Implemente un m´etodo que dado dos n´umeros no negativos representados como
+string devuelva la resta de estos n´umeros.*/
+string RestarCadenas(string cadena1, string cadena2){
+    string respuesta = "";
 
+//Emparejar las cadenas en tamaño agregando 0s al final de la menor
+    int tamaño1 = cadena1.Length;
+    int tamaño2 = cadena2.Length;
+    double lugaresDecimales = Math.Max(tamaño1, tamaño2) - Math.Min(tamaño1, tamaño2);
+    lugaresDecimales = Math.Pow(10, lugaresDecimales - 1);
+    string agrego = lugaresDecimales.ToString();
+    agrego = agrego.Replace("1", "0");
 
+    if (tamaño1 > tamaño2)
+    {
+        cadena2 = agrego + cadena2;
+    }
+    if (tamaño1 < tamaño2)
+    {
+        cadena1 = agrego + cadena1;        
+    }
+
+//Darle la vuelta a las cadenas
+    char[] puente1 = cadena1.ToCharArray();
+    char[] puente2 = cadena2.ToCharArray();
+    Array.Reverse(puente1);
+    Array.Reverse(puente2);
+    string a = new string(puente1);
+    string b = new string(puente2);
+
+//Sumar
+int[] resultado = new int[a.Length];
+int arrastre = 0;
+    for (int i = 0; i < a.Length; i++)
+    {
+        //Convertir la cadena en int momentanamente
+        string bridgea = a[i].ToString();
+        string bridgeb = b[i].ToString();
+
+        if (int.Parse(bridgea) - int.Parse(bridgeb) < 0)
+        {
+            bridgea = (int.Parse(bridgea) + 10).ToString();
+            arrastre = arrastre-1;
+        }
+        
+        resultado[i] = int.Parse(bridgea) - int.Parse(bridgeb);
+        if (arrastre != 0)
+        {
+            resultado[i] = resultado[i] + arrastre;
+        }
+        if (resultado[i] >= 10)
+        {
+            arrastre = resultado[i] / 10;
+            resultado[i] = (resultado[i] % 10);  
+        }    
+    }
+    //Agregar el signo menos
+    bool negative = false;
+    for (int i = 0; i < resultado.Length; i++)
+    {
+        if (resultado[i] < 0)
+        {
+            negative = true;
+        }
+    }
+    resultado[0] = resultado[0] + 1;
+    //Pasar los valores del array respuesta a la cadena resultado
+    for (int i = 0; i < resultado.Length; i++)
+    {
+        if (resultado[i] < 0)
+        {
+            resultado[i] = -1 * resultado[i];
+            respuesta += resultado[i].ToString();   
+        }
+        else
+        {
+            respuesta += resultado[i].ToString();   
+        }
+    }
+    if (negative == true)
+    {
+        respuesta += "-";
+    }
+    
+    char[] puente3 = respuesta.ToCharArray();
+    Array.Reverse(puente3);
+    respuesta = new string(puente3);
+    return respuesta;
+}
+
+System.Console.WriteLine(RestarCadenas("18", "5"));
 
