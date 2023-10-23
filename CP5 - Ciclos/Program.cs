@@ -293,6 +293,7 @@ System.Console.WriteLine(SumarCadenas("132", "2933330"));
 /*Restando cadenas
 Implemente un m´etodo que dado dos n´umeros no negativos representados como
 string devuelva la resta de estos n´umeros.*/
+/*
 string RestarCadenas(string cadena1, string cadena2){
     string respuesta = "";
 
@@ -382,4 +383,33 @@ int arrastre = 0;
 }
 
 System.Console.WriteLine(RestarCadenas("18", "5"));
+*/
+
+
+/*Contando positivos
+Implemente un m´etodo que devuelva un array con todos los elementos positivos
+del array a.*/
+/*
+int[] EliminarNegativos(int[] x){
+    List<int> respuestalist = new List<int>();
+
+    for (int i = 0; i < x.Length; i++)
+    {
+        if (x[i] >= 0)
+        {
+            respuestalist.Add(x[i]);
+        }
+    }
+    return respuestalist.ToArray();
+}
+
+int[] a = {-1,2,4,5};
+
+for (int i = 0; i < EliminarNegativos(a).Length; i++)
+{
+    System.Console.WriteLine(EliminarNegativos(a)[i]);
+}
+*/
+
+
 
