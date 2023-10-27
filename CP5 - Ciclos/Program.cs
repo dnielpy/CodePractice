@@ -513,3 +513,38 @@ bool Subconjunto(int[] x, int[] y){
 System.Console.WriteLine(Subconjunto(a, b));
 */
 
+/*Rotando
+Implemente un m´etodo que modifique el array a de forma que al concluir la ejecuci´on del m´etodo el array a contenga los mismos elementos que conten´ıa originalmente pero rotados en sus posiciones tantas veces como indique el par´ametro
+veces, si veces es positivo a la derecha y si el par´ametro es negativo, entonces a la
+izquierda. Note que si el par´ametro veces es 0 entonces el array no se modifica.
+Por ejemplo, si rotamos el array 25, 40, 17, 83, 9 2 veces, entonces obtenemos
+el array 83, 9, 25, 40, 17 y si lo rotamos -2 veces entonces nos queda 17, 83, 9,
+25, 40*/
+
+/*Rotando
+Implemente un m´etodo que modifique el array a de forma que al concluir la ejecuci´on del m´etodo el array a contenga los mismos elementos que conten´ıa originalmente pero rotados en sus posiciones tantas veces como indique el par´ametro
+veces, si veces es positivo a la derecha y si el par´ametro es negativo, entonces a la
+izquierda. Note que si el par´ametro veces es 0 entonces el array no se modifica.
+Por ejemplo, si rotamos el array 25, 40, 17, 83, 9 2 veces, entonces obtenemos
+el array 83, 9, 25, 40, 17 y si lo rotamos -2 veces entonces nos queda 17, 83, 9,
+25, 40*/
+/*
+int[] a = {2,5,4,3,6};
+int[] Rotar(int[] x, int rotaciones){
+    int contador = rotaciones;
+
+    for (int q = 0; q <= rotaciones; q++)
+    {
+        int first = x[0];
+
+        for (int i = 0; i < x.Length-1; i++)
+        {
+            x[i] = x[i + 1];
+        }
+        x[x.Length-1] = first;
+    }
+    return x;
+}
+Rotar(a, 2);
+*/
+
