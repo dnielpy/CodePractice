@@ -548,3 +548,33 @@ int[] Rotar(int[] x, int rotaciones){
 Rotar(a, 2);
 */
 
+/*Uni´on ordenada
+Implemente un m´etodo que a partir de los arreglos ordenados a y b deber´a
+devolver un nuevo array que sea la uni´on ordenada de ´estos. Por ejemplo, si el
+array a es 23, 40, 83 y el array b es 5, 17, 23, 24, 51, entonces el resultado ser´a
+el array 5, 17, 23, 23, 24, 40, 51, 83.*/
+/*
+int[] a = {2,5,4,3,6};
+int[] b = {1,7,8};
+
+int[] Ordenar(int[]x, int[]y){
+    int[] respuesta = new int[x.Length + y.Length];
+    for (int i = 0; i < x.Length; i++)
+    {
+        respuesta[i] = x[i];
+    }
+    for (int i = 0; i < y.Length; i++)
+    {
+        respuesta[x.Length+i] = y[i];
+    }
+    Array.Sort(respuesta);
+    return respuesta;
+}
+Ordenar(a, b);
+*/
+
+
+
+
+
+
