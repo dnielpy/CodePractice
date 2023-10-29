@@ -54,7 +54,6 @@
             items[i] = posagregated[i];
         }
     }
-
     public void Rotar(int x){
         if (x > 0)
         {
@@ -92,6 +91,26 @@
             }
         }  
     }   
+
+    public void InvertirSubcadenas(int[] x, int y){
+        List<int> resultado = new List<int>();
+        for (int i = 0; i < x.Length; i++)
+        {
+            if (x[i] % y == 0) //El numero es multiplo de k
+            {
+                if (i + 1 - y >= 0) //Si existen k lugares antes del numero en el array
+                {
+                    for (int t = 0; t <= i; t++)
+                    {
+                        if (resultado.Contains(x[i-t]) == false)
+                        {
+                            resultado.Add(x[i-t]);
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 
 class Program
@@ -101,6 +120,6 @@ class Program
 
         MyArray objeto1 = new MyArray(x);
 
-        objeto1.Rotar(-2);            
+        objeto1.InvertirSubcadenas(x, 3);            
     }
 }
