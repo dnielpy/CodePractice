@@ -1,0 +1,15 @@
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\bin\Debug\net6.0\CP6 - Clases.exe
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\bin\Debug\net6.0\CP6 - Clases.deps.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\bin\Debug\net6.0\CP6 - Clases.runtimeconfig.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\bin\Debug\net6.0\CP6 - Clases.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\bin\Debug\net6.0\CP6 - Clases.pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\CP6 - Clases.csproj.AssemblyReference.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\CP6 - Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\CP6 - Clases.AssemblyInfoInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\CP6 - Clases.AssemblyInfo.cs
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\CP6 - Clases.csproj.CoreCompileInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\CP6 - Clases.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\refint\CP6 - Clases.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\CP6 - Clases.pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\CP6 - Clases.genruntimeconfig.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP6 - Clases\obj\Debug\net6.0\ref\CP6 - Clases.dll
