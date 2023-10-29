@@ -54,16 +54,53 @@
             items[i] = posagregated[i];
         }
     }
-    
+
+    public void Rotar(int x){
+        if (x > 0)
+        {
+            for (int i = 0; i < x; i++)
+            {
+            int[] temp= new int[items.Length];
+            for (int t = 0; t < items.Length; t++)
+            {
+                temp[t] = items[t];
+            }
+            int last = items[items.Length - 1];
+            for (int y = 0; y < items.Length - 1; y++)
+            {
+                items[y+1] = temp[y];
+            }
+            items[0] = last;
+        }
+        }
+        if (x < 0)
+        {
+            x = -1*x;
+            for (int i = 0; i < x; i++)
+            {
+            int[] temp= new int[items.Length];
+            for (int t = 0; t < items.Length; t++)
+            {
+                temp[t] = items[t];
+            }
+            int first = items[0];
+            for (int y = 0; y < items.Length - 1; y++)
+            {
+                items[y] = temp[y+1];
+            }
+            items[items.Length-1] = first;
+            }
+        }  
+    }   
 }
 
 class Program
 {
     static void Main(){
-        int[] x = {1,2,3,54,1};
+        int[] x = {1,2,3,54,9};
 
         MyArray objeto1 = new MyArray(x);
 
-        objeto1.Insertar(3, 11);
+        objeto1.Rotar(-2);            
     }
 }
