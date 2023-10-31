@@ -1,0 +1,15 @@
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\bin\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.exe
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\bin\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.deps.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\bin\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.runtimeconfig.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\bin\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\bin\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.csproj.AssemblyReference.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.AssemblyInfoInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.AssemblyInfo.cs
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.csproj.CoreCompileInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\refint\Desencriptando Cadenas 2016 - 2017.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\Desencriptando Cadenas 2016 - 2017.genruntimeconfig.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\obj\Debug\net6.0\ref\Desencriptando Cadenas 2016 - 2017.dll

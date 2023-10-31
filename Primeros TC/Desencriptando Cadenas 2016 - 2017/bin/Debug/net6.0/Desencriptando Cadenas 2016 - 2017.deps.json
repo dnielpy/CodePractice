@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desencriptando Cadenas 2016 - 2017/1.0.0": {
+        "runtime": {
+          "Desencriptando Cadenas 2016 - 2017.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desencriptando Cadenas 2016 - 2017/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
