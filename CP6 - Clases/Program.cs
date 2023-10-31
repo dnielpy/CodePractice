@@ -111,15 +111,39 @@
             }
         }
     }
+
+    public void BoubbleSort(int[] x){
+        while(true){
+        bool changes = false;
+        for (int i = 0; i < x.Length; i++)
+        {
+            if (i+1 < x.Length)
+            {
+                int bridge = 0;
+                if (x[i] > x[i+1])
+                {
+                    bridge = x[i];
+                    x[i] = x[i+1];
+                    x[i+1] = bridge;
+                    changes = true;
+                }
+            }
+            if (changes == false)
+            {
+                break;
+            }
+        }
+        }
+    }
 }
 
 class Program
 {
     static void Main(){
-        int[] x = {1,2,3,54,9};
+        int[] x = {4,3,1,9,5,7};
 
         MyArray objeto1 = new MyArray(x);
 
-        objeto1.InvertirSubcadenas(x, 3);            
+        objeto1.BoubbleSort(x);           
     }
 }
