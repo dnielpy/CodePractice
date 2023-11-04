@@ -1,0 +1,15 @@
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\bin\Debug\net6.0\Zuma.exe
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\bin\Debug\net6.0\Zuma.deps.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\bin\Debug\net6.0\Zuma.runtimeconfig.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\bin\Debug\net6.0\Zuma.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\bin\Debug\net6.0\Zuma.pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\Zuma.csproj.AssemblyReference.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\Zuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\Zuma.AssemblyInfoInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\Zuma.AssemblyInfo.cs
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\Zuma.csproj.CoreCompileInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\Zuma.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\refint\Zuma.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\Zuma.pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\Zuma.genruntimeconfig.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Zuma\obj\Debug\net6.0\ref\Zuma.dll
