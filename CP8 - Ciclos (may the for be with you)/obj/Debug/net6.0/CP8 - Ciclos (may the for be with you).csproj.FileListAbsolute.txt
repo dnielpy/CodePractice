@@ -1,0 +1,15 @@
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\bin\Debug\net6.0\CP8 - Ciclos (may the for be with you).exe
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\bin\Debug\net6.0\CP8 - Ciclos (may the for be with you).deps.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\bin\Debug\net6.0\CP8 - Ciclos (may the for be with you).runtimeconfig.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\bin\Debug\net6.0\CP8 - Ciclos (may the for be with you).dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\bin\Debug\net6.0\CP8 - Ciclos (may the for be with you).pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\CP8 - Ciclos (may the for be with you).csproj.AssemblyReference.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\CP8 - Ciclos (may the for be with you).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\CP8 - Ciclos (may the for be with you).AssemblyInfoInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\CP8 - Ciclos (may the for be with you).AssemblyInfo.cs
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\CP8 - Ciclos (may the for be with you).csproj.CoreCompileInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\CP8 - Ciclos (may the for be with you).dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\refint\CP8 - Ciclos (may the for be with you).dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\CP8 - Ciclos (may the for be with you).pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\CP8 - Ciclos (may the for be with you).genruntimeconfig.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP8 - Ciclos (may the for be with you)\obj\Debug\net6.0\ref\CP8 - Ciclos (may the for be with you).dll
