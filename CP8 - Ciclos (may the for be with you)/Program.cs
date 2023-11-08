@@ -68,3 +68,24 @@ int[] a = {1,2,34,6,7,7,7};
 Repeticiones(3, a);
 */
 
+//¿Cu´antos n´umeros? 2Escriba un m´etodo que reciba un entero k y un array de valores distintos entreellos y devuelva cu´antos pares de valores existen que, al sumarlos, dan comoresultado k.
+/*
+int Repeticiones2(int k, int[] x){
+    int suma = 0;
+    for (int i = 0; i < x.Length; i++)
+    {
+        for (int t = i; t < x.Length; t++)
+        {
+            if (x[i] + x[t] == k)
+            {
+                suma++;
+            }
+        }
+    }
+    return  suma;
+}
+int[] a = {1,2,34,6,7, 4, -1};
+Repeticiones2(3, a);
+*/
+
+//Problema de la distribuci´on del ChocolateDado un array de N valores donde cada valor representa la cantidad de chocolates en un paquete, se quieren repartir estos paquetes entre varios estudiantes.Determine c´omo distribuirlos de forma tal que se satisfagan las siguientescondiciones:- Cada estudiante recibe un paquete- La diferencia entre la cantidad de chocolates del estudiante con la m´ınimacantidad y la del estudiante con la m´axima cantidad es m´ınima.
