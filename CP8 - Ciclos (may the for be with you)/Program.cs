@@ -1,4 +1,5 @@
 ﻿//M´ınima diferencia entre dos n´umerosEscriba un m´etodo que dado un array de n´umeros enteros devuelva la menor delas diferencias entre cualquier par de elementos.
+/*
 int MenorDiferencia(int[] x){
     int menor = 11110;
     for (int i = 0; i < x.Length; i++)
@@ -22,3 +23,23 @@ int MenorDiferencia(int[] x){
 
 int[] a = {1,3,56,8,23,5};
 MenorDiferencia(a);
+*/
+
+//Criba de Erat´ostenesEscriba un m´etodo que dado un entero n devuelva un array de bool de tama˜non.El array resultante debe tener valor true en la posici´on i si el n´umero enteroi es primo. En caso contrario, tendr´a valor f alse.Por ejemplo, para n = 10, el array resultante debe ser: true, true, f alse,f alse, true, f alse, true, f alse, true, true
+bool[] Primo(int x){
+    bool[] clasificacion = new bool[x + 1];
+    for (int i = 0; i < clasificacion.Length; i++)
+    {
+        if (i != 0 && Math.Max(2, i) % Math.Min(2, i) != 0)
+        {
+            clasificacion[i] = true;
+        }
+    }
+    return clasificacion;
+}
+
+Primo(5);
+
+
+
+

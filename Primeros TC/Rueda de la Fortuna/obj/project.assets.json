@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dnielpy\\Documents\\Code\\Github\\CodePractice\\Primeros TC\\EstabilizarGenes\\EstabilizarGenes.csproj",
-      "projectName": "EstabilizarGenes",
-      "projectPath": "C:\\Users\\Dnielpy\\Documents\\Code\\Github\\CodePractice\\Primeros TC\\EstabilizarGenes\\EstabilizarGenes.csproj",
+      "projectUniqueName": "C:\\Users\\Dnielpy\\Documents\\Code\\Github\\CodePractice\\Primeros TC\\Rueda de la Fortuna\\Rueda de la Fortuna.csproj",
+      "projectName": "Rueda de la Fortuna",
+      "projectPath": "C:\\Users\\Dnielpy\\Documents\\Code\\Github\\CodePractice\\Primeros TC\\Rueda de la Fortuna\\Rueda de la Fortuna.csproj",
       "packagesPath": "C:\\Users\\Dnielpy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dnielpy\\Documents\\Code\\Github\\CodePractice\\Primeros TC\\EstabilizarGenes\\obj\\",
+      "outputPath": "C:\\Users\\Dnielpy\\Documents\\Code\\Github\\CodePractice\\Primeros TC\\Rueda de la Fortuna\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dnielpy\\AppData\\Roaming\\NuGet\\NuGet.Config"
