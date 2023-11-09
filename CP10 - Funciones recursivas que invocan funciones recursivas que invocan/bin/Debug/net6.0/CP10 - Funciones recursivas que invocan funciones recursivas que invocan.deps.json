@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CP10 - Funciones recursivas que invocan funciones recursivas que invocan/1.0.0": {
+        "runtime": {
+          "CP10 - Funciones recursivas que invocan funciones recursivas que invocan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CP10 - Funciones recursivas que invocan funciones recursivas que invocan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
