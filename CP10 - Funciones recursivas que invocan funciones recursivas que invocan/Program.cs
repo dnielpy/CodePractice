@@ -45,3 +45,21 @@ List<int> a = new List<int>();
 a.Add(1);
 a.Add(3);
 System.Console.WriteLine(SumaElementos(a));*/
+
+//Inversi´on de cadena Implemente un m´etodo que invierta recursivamente un string. Retorne el string invertido.
+/*string Invertir(string a){
+    if (a.Length == 1)
+    {
+        return a;
+    }
+    else if (a == "")
+    {
+        return a;
+    }
+    else
+    {
+        return a[a.Length - 1].ToString() + Invertir(a.Remove(a.Length - 1));
+    }
+}
+System.Console.WriteLine(Invertir("aaaza"));*/
+
