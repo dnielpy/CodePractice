@@ -63,3 +63,54 @@ System.Console.WriteLine(SumaElementos(a));*/
 }
 System.Console.WriteLine(Invertir("aaaza"));*/
 
+//Potencia Implemente un m´etodo que calcule recursivamente la potencia de un entero n
+/*int Potencia(int x, int k){
+    if (k == 0)
+    {
+        return 1;
+    }
+    if (k == 1)
+    {
+        return x;
+    }
+    else
+    {
+        return x * Potencia(x, k-1);
+    }
+}
+System.Console.WriteLine(Potencia(4, 3));*/
+
+//MCD Implemente un m´etodo que calcule el m´aximo com´un divisor (MCD) de dos enteros.
+/*int MaxComDivisor(int x, int y){
+    List<int> divisores = new List<int>();
+    for (int i = 1; i <= Math.Min(x, y); i++)
+    {
+        if (x % i == 0 && y % i == 0)
+        {
+            divisores.Add(i);
+        }
+    }
+    return divisores.Last();
+}
+System.Console.WriteLine(MaxComDivisor(14, 27));*/
+
+//D´ıgitos Implemente una funci´on que calcule recursivamente la suma de los d´ıgitos de un entero n.
+int SumaDigitos(int a){
+    string x = a.ToString();
+    if (x.Length == 0)
+    {
+        return 0;
+    }
+    else if(x.Length == 1)
+    {
+        string y = x[0].ToString();
+        return int.Parse(y);
+    }
+    else
+    {
+        return int.Parse(x[x.Length - 1].ToString()) + SumaDigitos(int.Parse(x.Remove(x.Length - 1)));
+    }
+}
+
+System.Console.WriteLine(SumaDigitos(65));
+
