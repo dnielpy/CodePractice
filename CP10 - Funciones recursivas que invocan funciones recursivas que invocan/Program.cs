@@ -95,7 +95,7 @@ System.Console.WriteLine(Potencia(4, 3));*/
 System.Console.WriteLine(MaxComDivisor(14, 27));*/
 
 //D´ıgitos Implemente una funci´on que calcule recursivamente la suma de los d´ıgitos de un entero n.
-int SumaDigitos(int a){
+/*int SumaDigitos(int a){
     string x = a.ToString();
     if (x.Length == 0)
     {
@@ -111,6 +111,8 @@ int SumaDigitos(int a){
         return int.Parse(x[x.Length - 1].ToString()) + SumaDigitos(int.Parse(x.Remove(x.Length - 1)));
     }
 }
+System.Console.WriteLine(SumaDigitos(65));*/
 
-System.Console.WriteLine(SumaDigitos(65));
+//Subsecuencia com´un Implemente una funci´on recursiva que calcule la longitud de la subsecuencia com´un m´as larga enter dos strings.
+
 
