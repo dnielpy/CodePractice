@@ -1,5 +1,5 @@
 ﻿//Pal´ındromo Implemente una funci´on recursiva que reciba un string y analice si este es pal´ındromo.
-bool Palindromo(string x){
+/*bool Palindromo(string x){
     string y = "";
     if(x == "" && y == ""){
         return true;
@@ -18,5 +18,6 @@ bool Palindromo(string x){
         return Palindromo(x.Remove(x.Length - 1));
     }
 }
+System.Console.WriteLine(Palindromo("radar")); */
 
-System.Console.WriteLine(Palindromo("radar"));
+
