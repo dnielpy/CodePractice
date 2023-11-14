@@ -1,0 +1,15 @@
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\bin\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.exe
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\bin\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.deps.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\bin\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.runtimeconfig.json
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\bin\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\bin\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.AssemblyInfo.cs
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\refint\CP11 - Más recursión, con algo de polimorfismo.dll
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.pdb
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\CP11 - Más recursión, con algo de polimorfismo.genruntimeconfig.cache
+C:\Users\Dnielpy\Documents\Code\Github\CodePractice\CP11 - Más recursión, con algo de polimorfismo\obj\Debug\net6.0\ref\CP11 - Más recursión, con algo de polimorfismo.dll
