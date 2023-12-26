@@ -6,12 +6,12 @@ int Mayor(int[] x){
 
     for (int i = 0; i < x.Length; i++)
     {
-        if (x[contador] < x[i])
+        if (contador < x[i])
         {
-            contador = i;
+            contador = x[i];
         }
     }
-    return x[contador];
+    return contador;
 }
 
 System.Console.WriteLine(Mayor(x));

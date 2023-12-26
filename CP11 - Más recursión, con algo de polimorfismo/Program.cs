@@ -21,3 +21,18 @@
 System.Console.WriteLine(Palindromo("radar")); */
 
 
+//Suma decreciente Implemente un m´etodo que reciba un entero n y muestre en la consola todas las secuencias distintas de enteros positivos que suman n. Por ejemplo, para n = 4, debe mostrar:
+//formula para descomponer un numero en sus sumandos
+int Descomponer(int x){
+    if (x <= 1)
+    {
+        return x;
+    }
+    else
+    {
+        int y = x;
+        return y - Descomponer(x-1);
+    }  
+}
+
+System.Console.WriteLine(Descomponer(4));
