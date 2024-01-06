@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Segundo_Intento_6_1_24
+build_property.ProjectDir = C:\Users\Dnielpy\Documents\Code\Github\CodePractice\Primeros TC\Desencriptando Cadenas 2016 - 2017\Segundo Intento 6-1-24\
