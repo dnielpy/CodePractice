@@ -1,0 +1,14 @@
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\bin\Debug\net8.0\Rueda de La Fortuna.exe
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\bin\Debug\net8.0\Rueda de La Fortuna.deps.json
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\bin\Debug\net8.0\Rueda de La Fortuna.runtimeconfig.json
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\bin\Debug\net8.0\Rueda de La Fortuna.dll
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\bin\Debug\net8.0\Rueda de La Fortuna.pdb
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\Rueda de La Fortuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\Rueda de La Fortuna.AssemblyInfoInputs.cache
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\Rueda de La Fortuna.AssemblyInfo.cs
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\Rueda de La Fortuna.csproj.CoreCompileInputs.cache
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\Rueda de La Fortuna.dll
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\refint\Rueda de La Fortuna.dll
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\Rueda de La Fortuna.pdb
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\Rueda de La Fortuna.genruntimeconfig.cache
+C:\Users\dnielpy\Documents\GitHub\Pruebas\Rueda de La Fortuna\obj\Debug\net8.0\ref\Rueda de La Fortuna.dll

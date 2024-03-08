@@ -1,0 +1,4 @@
+C:\Users\dnielpy\Downloads\Telegram Desktop\Zuma\CXXX - Nombre Apellido\Weboo.Examen\Weboo.Probador\obj\Debug\net8.0\Weboo.Probador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnielpy\Downloads\Telegram Desktop\Zuma\CXXX - Nombre Apellido\Weboo.Examen\Weboo.Probador\obj\Debug\net8.0\Weboo.Probador.AssemblyInfoInputs.cache
+C:\Users\dnielpy\Downloads\Telegram Desktop\Zuma\CXXX - Nombre Apellido\Weboo.Examen\Weboo.Probador\obj\Debug\net8.0\Weboo.Probador.AssemblyInfo.cs
+C:\Users\dnielpy\Downloads\Telegram Desktop\Zuma\CXXX - Nombre Apellido\Weboo.Examen\Weboo.Probador\obj\Debug\net8.0\Weboo.Probador.csproj.CoreCompileInputs.cache
