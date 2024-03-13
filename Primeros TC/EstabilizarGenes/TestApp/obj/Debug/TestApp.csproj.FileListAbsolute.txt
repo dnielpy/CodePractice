@@ -1,0 +1,27 @@
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\bin\Debug\TestApp.exe
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\bin\Debug\Weboo.Examen.dll
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\bin\Debug\Weboo.Examen.pdb
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\obj\Debug\TestApp.exe
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\TestApp.exe
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\Weboo.Examen.dll
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\Weboo.Examen.pdb
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\obj\Debug\TestApp.exe
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\obj\Debug\TestApp.pdb
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\TestApp.exe.config
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\TestApp.exe
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\TestApp.pdb
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\Weboo.Examen.dll
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\bin\Debug\Weboo.Examen.pdb
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\obj\Debug\TestApp.exe
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\TestApp\obj\Debug\TestApp.pdb

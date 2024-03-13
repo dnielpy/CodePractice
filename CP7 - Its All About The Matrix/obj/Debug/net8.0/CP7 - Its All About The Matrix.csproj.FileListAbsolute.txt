@@ -1,0 +1,15 @@
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\bin\Debug\net8.0\CP7 - Its All About The Matrix.exe
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\bin\Debug\net8.0\CP7 - Its All About The Matrix.deps.json
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\bin\Debug\net8.0\CP7 - Its All About The Matrix.runtimeconfig.json
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\bin\Debug\net8.0\CP7 - Its All About The Matrix.dll
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\bin\Debug\net8.0\CP7 - Its All About The Matrix.pdb
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\CP7 - Its All About The Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\CP7 - Its All About The Matrix.AssemblyInfoInputs.cache
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\CP7 - Its All About The Matrix.AssemblyInfo.cs
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\CP7 - Its All About The Matrix.csproj.CoreCompileInputs.cache
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\CP7 - Its All About The Matrix.sourcelink.json
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\CP7 - Its All About The Matrix.dll
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\refint\CP7 - Its All About The Matrix.dll
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\CP7 - Its All About The Matrix.pdb
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\CP7 - Its All About The Matrix.genruntimeconfig.cache
+C:\Users\dnielpy\Documents\GitHub\CodePractice\CP7 - Its All About The Matrix\obj\Debug\net8.0\ref\CP7 - Its All About The Matrix.dll

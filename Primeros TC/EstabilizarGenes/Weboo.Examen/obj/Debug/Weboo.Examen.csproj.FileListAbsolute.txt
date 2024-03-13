@@ -1,0 +1,14 @@
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\Weboo.Examen\obj\Debug\Weboo.Examen.csproj.CoreCompileInputs.cache
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+C:\Users\Killua\Desktop\I Parcial\EstabilizarGenes\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\Weboo.Examen\obj\Debug\Weboo.Examen.csproj.CoreCompileInputs.cache
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\Weboo.Examen\bin\Debug\System.Net.Http.dll
+H:\EstabilizarGenes\EstabilizarGenes\C1XX - Nombre y Apellidos\EstabilizarGenes\Weboo.Examen\bin\Debug\System.Net.Http.xml
