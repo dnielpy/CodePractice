@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CP7 - Its All About The Matrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd08807f2c43830ae011c058c218673df22a1540")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471ed21fd78a84f050cdf8fed4d6f34a34a8f23e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CP7 - Its All About The Matrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CP7 - Its All About The Matrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
