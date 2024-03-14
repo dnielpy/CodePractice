@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ZBW9YHyy18+uf+JMS0hLb6yXlqZOjuIQlL882CJ5Hdz26GfOMMsk/ThZ9BHm7MvRdJJUQ1FyqEkd/oyaEtsSg==",
+  "success": false,
+  "projectFilePath": "c:\\Users\\dnielpy\\Documents\\GitHub\\CodePractice\\Primeros TC\\ElVínculoDeJaime\\Jaimes.Curse\\exam.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede obtener la información de signatura del repositorio para el origen https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede obtener la información de signatura del repositorio para el origen https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede obtener la información de signatura del repositorio para el origen https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede obtener la información de signatura del repositorio para el origen https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    }
+  ]
+}

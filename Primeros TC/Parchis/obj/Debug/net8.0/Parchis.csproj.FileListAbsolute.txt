@@ -1,0 +1,15 @@
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\bin\Debug\net8.0\Parchis.exe
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\bin\Debug\net8.0\Parchis.deps.json
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\bin\Debug\net8.0\Parchis.runtimeconfig.json
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\bin\Debug\net8.0\Parchis.dll
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\bin\Debug\net8.0\Parchis.pdb
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\Parchis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\Parchis.AssemblyInfoInputs.cache
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\Parchis.AssemblyInfo.cs
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\Parchis.csproj.CoreCompileInputs.cache
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\Parchis.sourcelink.json
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\Parchis.dll
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\refint\Parchis.dll
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\Parchis.pdb
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\Parchis.genruntimeconfig.cache
+C:\Users\dnielpy\Documents\GitHub\CodePractice\Primeros TC\Parchis\obj\Debug\net8.0\ref\Parchis.dll
