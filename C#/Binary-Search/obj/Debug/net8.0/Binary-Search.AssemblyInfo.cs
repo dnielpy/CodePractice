@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CP10 - Funciones recursivas que invocan funciones recursivas que invocan")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Binary-Search")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+416bface21b4e512ffeedfbd12b75fa35c77980e")]
-[assembly: System.Reflection.AssemblyProductAttribute("CP10 - Funciones recursivas que invocan funciones recursivas que invocan")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CP10 - Funciones recursivas que invocan funciones recursivas que invocan")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ba2af29f349946caa8162f236dfb9be247b4276")]
+[assembly: System.Reflection.AssemblyProductAttribute("Binary-Search")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Binary-Search")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

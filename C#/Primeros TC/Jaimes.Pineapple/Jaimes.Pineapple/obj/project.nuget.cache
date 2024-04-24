@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2jT/yOhX3sIDQOyFlL61tJXPQnFnguY0ZweRdZeMThIhsPT+SUhmjCRYfeNPbm2QduOBkNg/gCI26JwwJbfsA==",
+  "success": false,
+  "projectFilePath": "c:\\Users\\ASUS\\Documents\\Code\\Github\\CodePractice\\Primeros TC\\Jaimes.Pineapple\\Jaimes.Pineapple\\exam.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio para el origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}
