@@ -15,7 +15,7 @@ class Search{
 }
 public class Main {
     public static void main(String[] args) {
-        Integer[] a = {1,2,3,4,5,6,7,8};
+        Integer[] a = {1,2,3,4,5,6,7,8, 9};
         Search b = new Search();
         Integer c = b.BinarySearch(7, a);
         System.out.printf(c.toString());
