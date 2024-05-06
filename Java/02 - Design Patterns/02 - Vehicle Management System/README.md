@@ -7,8 +7,8 @@ Welcome to the Vehicle Management System! Let's build a practical project to pra
 ### Functionalities
 
 1. **Create New Vehicles**:
-   - Users should be able to create new vehicles (cars, motorcycles, trucks) by specifying their type, requested components, and quantities.
-   - Imagine users assembling their dream vehicles piece by piece! 🚘🛵🚚
+   - Users should be able to create new vehicles (cars, motorcycles, trucks)
+   - Imagine users assembling their dream vehicles! 🚘🛵🚚
 
 2. **Process Vehicles**:
    - Once a vehicle is created, the system should calculate the manufacturing cost and generate an invoice.
@@ -37,15 +37,10 @@ Welcome to the Vehicle Management System! Let's build a practical project to pra
    - Camión (Truck): Higher manufacturing cost and longer production time.
    - Imagine a bustling vehicle assembly line! 🏭🚛🏍️
 
-2. **Manufacturing Cost Calculation**:
-   - The manufacturing cost of a vehicle will be the sum of the costs of its required components and labor.
-   - We'll account for every nut, bolt, and hour of work! 🔩⏱️
-
-3. **Invoice Generation**:
+2. **Invoice Generation**:
    - Invoices should include:
      - Vehicle number
      - Manufacturing date
-     - Components used
      - Total cost
    - Imagine beautifully formatted invoices arriving in customers' mailboxes. 📮💼
 
