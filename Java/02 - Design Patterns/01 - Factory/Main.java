@@ -1,5 +1,6 @@
 import java.awt.*;
 import java.util.concurrent.locks.ReadWriteLock;
+import java.util.Scanner;
 
 interface Order{
     int getCost();
@@ -99,12 +100,53 @@ class Recipe{
 }
 
 class Main{
-     public static void main(String[] args) {
-         OrdersFactory ordenes = new OrdersFactory();
-         Order orden_1 = ordenes.createOrder(1);
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        OrdersFactory ordenes = new OrdersFactory();
+        Order[] orders = new Order[10]; // Máximo de 10 órdenes
+        int orderCount = 0;
 
+        while (true) {
+            System.out.println("nMenú de órdenes:");
+            System.out.println("1. Crear orden regular");
+            System.out.println("2. Crear orden urgente");
+            System.out.println("3. Crear orden internacional");
+            System.out.println("4. Ver orden");
+            System.out.println("5. Salir");
+            System.out.print("Ingrese una opción: ");
+            int option = sc.nextInt();
 
-         System.out.println(String.valueOf(orden_1.getCost()));
-     }
-
+            switch (option) {
+                case 1:
+                    orders[orderCount++] = ordenes.createOrder(1);
+                    System.out.println("Orden regular creada");
+                    break;
+                case 2:
+                    orders[orderCount++] = ordenes.createOrder(2);
+                    System.out.println("Orden urgente creada");
+                    break;
+                case 3:
+                    orders[orderCount++] = ordenes.createOrder(3);
+                    System.out.println("Orden internacional creada");
+                    break;
+                case 4:
+                    if (orderCount == 0) {
+                        System.out.println("No hay órdenes para mostrar");
+                    } else {
+                        for (int i = 0; i < orderCount; i++) {
+                            System.out.println("nOrden #" + (i + 1));
+                            System.out.println("  Costo: " + orders[i].getCost());
+                            System.out.println("  Tiempo de entrega: " + orders[i].getDeliveryTime());
+                        }
+                    }
+                    break;
+                case 5:
+                    System.out.println("Saliendo...");
+                    sc.close();
+                    return;
+                default:
+                    System.out.println("Opción inválida");
+            }
+        }
+    }
 }
