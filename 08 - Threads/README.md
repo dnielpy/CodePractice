@@ -4,7 +4,7 @@
 
 Imagine you are a developer working on an e-commerce application that needs to fetch product information from a third-party vendor API. The vendor provides three pieces of data for each product: price, availability, and delivery time.
 
-The challenge is that the vendor's API is slow and returns the data at different times. The price is returned immediately, the availability is returned after 1 second, and the delivery time is returned after 2 seconds.
+The challenge is that the vendor's API is slow and returns the data at different times. The price is returned immediately, the availability is returned after 3 second, and the delivery time is returned after 4 seconds.
 
 Your objective is to design and implement a concurrent API that retrieves this three pieces of data as fast as possible. The API must leverage concurrency to fetch the data in parallel and return it to the client at the earliest possible time.
 
