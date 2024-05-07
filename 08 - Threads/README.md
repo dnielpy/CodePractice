@@ -1,21 +1,22 @@
-## Concurrent Counter 🚀
+## Concurrent API for Fast Data Retrieval 🚀
 
-**Description:** 🔢
+### Story 📚
 
-Develop a Java program that uses threads to implement a concurrent counter. The counter should allow multiple threads to increment and decrement its value safely.
+Imagine you are a developer working on an e-commerce application that needs to fetch product information from a third-party vendor API. The vendor provides three pieces of data for each product: price, availability, and delivery time.
 
-**Requirements:** 📈
+The challenge is that the vendor's API is slow and returns the data at different times. The price is returned immediately, the availability is returned after 1 second, and the delivery time is returned after 2 seconds.
 
-- Create two classes: Counter and Thread. 
-- The Counter class should contain the following methods: 
-    - increment(): Increments the counter's value. 
-    - decrement(): Decrements the counter's value. 
-    - getValue(): Returns the current value of the counter. 
-- The Thread class should extend the Thread class and implement the run() method. 
-- The run() method should repeatedly call the increment() and decrement() methods of the counter. 
+Your objective is to design and implement a concurrent API that retrieves this three pieces of data as fast as possible. The API must leverage concurrency to fetch the data in parallel and return it to the client at the earliest possible time.
 
-**Implementation:** 🔒
+### Requirements 🛠️
 
-- Use the synchronized class to synchronize access to the counter. 
-- Create multiple Thread threads and run them concurrently. 
-- Use the getValue() method to print the value of the counter periodically. 📊
+- Concurrent API: An API that leverages concurrency to fetch data from the vendor API in parallel.
+- Threads: Threads that concurrently fetch data from the vendor API.
+- Results Queue: A concurrent queue to store the results returned by the threads.
+
+### Steps 👣
+
+1. Create a concurrent API that accepts requests for product data.
+2. Create threads that concurrently fetch data from the vendor API.
+3. Use a results queue to store the results returned by the threads.
+4. Once all three results are received, the concurrent API returns the data to the client.
