@@ -1,8 +1,22 @@
 package com.example.demo.student;
-
+import jakarta.persistence.*;
+import org.springframework.stereotype.Service;
 import java.time.LocalDate;
 
+@Entity
+@Table
 public class Student {
+    public Student(){};
+    @Id
+    @SequenceGenerator(
+            name = "students_sequence",
+            sequenceName = "students_sequence",
+            allocationSize = 1
+    )
+    @GeneratedValue(
+            strategy = GenerationType.SEQUENCE,
+            generator = "student_sequence"
+    )
     private long id;
     private String name;
     private String email;
