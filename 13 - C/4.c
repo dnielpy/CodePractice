@@ -1,15 +1,11 @@
 #include <stdio.h>
 #include <math.h>
 
-int main()
+int manin()
 {
-
-    float r, c;
-
-    printf("Ingrese el radio de la circunferencia: ");
-    scanf("%f", &r);
-
-    c = 2 * M_PI * r;
-
-    printf("La longitud de la circunferencia es: %f", c);
+    float total, final;
+    printf("Ingrese el total a pagar: ");
+    scanf("%f", &total);
+    final = total * 0.15;
+    printf("Tiene que pagar: %f", final);
 }
