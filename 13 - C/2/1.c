@@ -11,6 +11,5 @@ int main()
 	{
 		y += i;
 	}
-
 	printf("%d", y);
 }
