@@ -2,19 +2,32 @@
 
 int main()
 {
-    int n;
+    int x;
+
     printf("Escribe el numero: ");
-    scanf("%d", &n);
+    scanf("%d", &x);
 
-    for (int i = 0; i <= n; i++)
+    int counter = 0;
+
+    for (int i = 1; i <= 10; i++)
     {
-        char cadena[i];
-
-        for (int z = 0; z < sizeof(cadena)/sizeof(cadena[0]); z++)
-        {
-            cadena[z] = '*';
+        if (x == 1){
+            printf("Es primo");
+            break;
         }
-        printf(cadena);
-        printf("\n");
+        int s = x % i;
+        if (x % i == 0){
+            counter++;
+        }
     }
+
+    if (counter > 3)
+    {
+        printf("No es primo");
+    }
+    else
+    {
+        printf("Es primo");
+    }
+    
 }
